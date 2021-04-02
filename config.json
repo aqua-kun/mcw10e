@@ -2,5 +2,5 @@
 	"ip":"destroyerwtftt.aternos.me",
 	"port": "25565",
 	"name": "donttouchmeplz",
-	"auto-night-skip":"false"
+	"auto-night-skip":"true"
 }
